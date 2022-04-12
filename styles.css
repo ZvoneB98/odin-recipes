@@ -1,0 +1,13 @@
+.heading, 
+.recipes {
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+}
+.recipes {
+	font-size: large;
+}
+
+.main {
+	font-size: 54px;
+	text-align: center;
+}
