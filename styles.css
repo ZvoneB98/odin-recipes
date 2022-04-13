@@ -1,7 +1,15 @@
+body {
+	background-color: #d7e6ee;
+	font-family: Helvetica, sans-serif;
+}
+
+img { 
+	height: 400px;
+	width: auto;
+}
 .heading, 
 .recipes {
-	font-family: Helvetica, sans-serif;
-	font-weight: lighter;
+	font-weight: bolder;
 }
 .recipes {
 	font-size: large;
@@ -10,4 +18,8 @@
 .main {
 	font-size: 54px;
 	text-align: center;
+}
+
+.section {
+	width: 600px;
 }
